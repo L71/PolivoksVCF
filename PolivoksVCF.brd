@@ -144,6 +144,14 @@
 <rectangle x1="1.27" y1="52.705" x2="6.985" y2="59.055" layer="42"/>
 <rectangle x1="1.27" y1="93.345" x2="6.985" y2="99.695" layer="42"/>
 <rectangle x1="33.655" y1="93.345" x2="39.37" y2="99.695" layer="42"/>
+<wire x1="13.97" y1="97.79" x2="11.43" y2="97.79" width="0.254" layer="22"/>
+<wire x1="11.43" y1="97.79" x2="11.43" y2="92.71" width="0.254" layer="22"/>
+<wire x1="11.43" y1="92.71" x2="13.97" y2="92.71" width="0.254" layer="22"/>
+<wire x1="12.065" y1="97.155" x2="12.065" y2="95.25" width="0.254" layer="22"/>
+<wire x1="12.7" y1="97.155" x2="12.7" y2="95.25" width="0.254" layer="22"/>
+<wire x1="13.335" y1="97.155" x2="13.335" y2="95.25" width="0.254" layer="22"/>
+<text x="15.875" y="86.995" size="1.778" layer="22" font="vector" rot="SMR0">RED/
+-12V</text>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
@@ -2286,6 +2294,10 @@ Please make sure your boards conform to these design rules.</description>
 </board>
 </drawing>
 <compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
 <note version="8.2" severity="warning">
 Since Version 8.2, EAGLE supports online libraries. The ids
 of those online libraries will not be understood (or retained)
