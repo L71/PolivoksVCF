@@ -129,9 +129,9 @@
 <board>
 <plain>
 <wire x1="0.635" y1="1.27" x2="39.985" y2="1.27" width="0" layer="20"/>
-<wire x1="39.985" y1="1.27" x2="39.985" y2="98.73" width="0" layer="20"/>
-<wire x1="39.985" y1="98.73" x2="0.635" y2="98.73" width="0" layer="20"/>
-<wire x1="0.635" y1="98.73" x2="0.635" y2="1.27" width="0" layer="20"/>
+<wire x1="39.985" y1="1.27" x2="39.985" y2="99.365" width="0" layer="20"/>
+<wire x1="39.985" y1="99.365" x2="0.635" y2="99.365" width="0" layer="20"/>
+<wire x1="0.635" y1="99.365" x2="0.635" y2="1.27" width="0" layer="20"/>
 <hole x="3.81" y="55.88" drill="3.3"/>
 <hole x="3.81" y="96.52" drill="3.3"/>
 <hole x="36.83" y="96.52" drill="3.3"/>
@@ -1902,7 +1902,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="CV2" library="thonkiconn" package="WQP-PJ301M-12_JACK" value="WQP-PJ301M-12_JACK" x="20.32" y="7.62" rot="R180"/>
 <element name="AU_IN" library="thonkiconn" package="WQP-PJ301M-12_JACK" value="WQP-PJ301M-12_JACK" x="33.02" y="25.4"/>
 <element name="AU_OUT" library="thonkiconn" package="WQP-PJ301M-12_JACK" value="WQP-PJ301M-12_JACK" x="33.02" y="7.62" rot="R180"/>
-<element name="T1" library="transistor-neu-to92" package="TO92-EBC" value="" x="13.335" y="45.72" smashed="yes" rot="R90">
+<element name="T1" library="transistor-neu-to92" package="TO92-EBC" value="2N3904" x="13.335" y="45.72" smashed="yes" rot="R90">
 <attribute name="NAME" x="18.415" y="43.942" size="1.27" layer="25" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="17.907" y="43.18" size="1.27" layer="27" ratio="10" rot="R90"/>
 </element>

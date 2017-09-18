@@ -19462,7 +19462,7 @@ http://www.ee.siue.edu/~alozows/library/datasheets/BFR96.pdf</description>
 <part name="IC1" library="linear" library_urn="urn:adsk.eagle:library:262" deviceset="TL072" device="P" package3d_urn="urn:adsk.eagle:package:16409/1"/>
 <part name="S1" library="switch" library_urn="urn:adsk.eagle:library:380" deviceset="TL36PO" device="" package3d_urn="urn:adsk.eagle:package:27745/1"/>
 <part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="025-025X050" package3d_urn="urn:adsk.eagle:package:23629/2" value="100p"/>
-<part name="T1" library="transistor-neu-to92" deviceset="*-NPN-" device="TO92-EBC" technology="2N3904"/>
+<part name="T1" library="transistor-neu-to92" deviceset="*-NPN-" device="TO92-EBC" technology="2N3904" value="2N3904"/>
 </parts>
 <sheets>
 <sheet>
