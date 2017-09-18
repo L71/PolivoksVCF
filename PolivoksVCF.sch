@@ -19484,6 +19484,8 @@ resonance</text>
 <text x="7.62" y="2.54" size="1.778" layer="91">Original schematics to this Polivoks filter clone can be found here:
 http://m.bareille.free.fr/modular1/vcf_polivoks/vcf_polivoks.htm
 </text>
+<text x="157.48" y="55.88" size="1.778" layer="91">S1: Salecom SKS04 used
+in prototypes</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
