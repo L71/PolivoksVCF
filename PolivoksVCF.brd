@@ -156,6 +156,10 @@
 http://m.bareille.free.fr/modular1/vcf_polivoks/vcf_polivoks.htm</text>
 <text x="36.83" y="65.405" size="1.27" layer="21" font="vector" rot="SR90">Polivoks VCF</text>
 <text x="20.32" y="65.405" size="0.8128" layer="21" font="vector" rot="SR0">C4 optional!</text>
+<text x="17.145" y="80.01" size="1.27" layer="21" font="vector" rot="SR0">B10K</text>
+<text x="24.765" y="49.53" size="1.27" layer="21" font="vector" rot="SR0">B100K</text>
+<text x="4.445" y="29.21" size="1.27" layer="21" font="vector" rot="SR0">B10K</text>
+<text x="17.145" y="29.21" size="1.27" layer="21" font="vector" rot="SR0">B10K</text>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
